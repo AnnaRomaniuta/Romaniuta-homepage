@@ -206,6 +206,12 @@ Experience and additional info styles.experiences {
   margin-bottom: 10px;
 }
 
+.experiences__company-project-responsibilities-header {
+  color: var(--primary-text-color);
+  text-align: left;
+  margin-bottom: 10px;
+}
+
 .experiences__company-project-responsibilities {
   color: var(--secondary-text-color);
   padding-left: 20px;
@@ -254,4 +260,18 @@ Experience and additional info styles.experiences {
 
 .additional-info__languages-item {
   color: var(--secondary-text-color);
+}
+
+ul {
+  list-style-type: none;
+}
+
+li::before {
+  display: inline-block;
+  vertical-align: middle;
+  width: 5px;
+  height: 5px;
+  margin-right: 8px;
+  content: ' ';
+  background-color: #ff9a00;
 }}}
