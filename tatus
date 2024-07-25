@@ -1,0 +1,77 @@
+[33mcommit 14b0144ec03919a5cb12505ae17c7b5a89c8dcc7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpatch/content/secondary[m[33m)[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Thu Jul 25 13:54:28 2024 +0300
+
+    Added additional info (education, cources, languages)
+
+[33mcommit fdb647f0b1b70a628b18c6f5a271c179889199b1[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Wed Jul 24 20:06:16 2024 +0300
+
+    Added email, phone number, Skype, and Telegram links to the contact info block
+
+[33mcommit 845f32aca1ef5dfab1306bdf24d6e2ce86d876e0[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Wed Jul 24 17:56:53 2024 +0300
+
+    Added block with skills and experience
+
+[33mcommit c5c3e6abd844855bc600a9d3ab3ab2d1532c7bf5[m[33m ([m[1;31morigin/feature/body[m[33m, [m[1;32mfeature/body[m[33m)[m
+Merge: 461c981 a74642b
+Author: AnnaRomaniuta <163916713+AnnaRomaniuta@users.noreply.github.com>
+Date:   Wed Jul 24 15:47:57 2024 +0200
+
+    Merge pull request #16 from AnnaRomaniuta/patch/content/primary
+    
+    Updated Résumé Contacts block
+
+[33mcommit a74642bf4c88cda1d1635bb7a69433486f4d206b[m[33m ([m[1;31morigin/patch/content/primary[m[33m, [m[1;32mpatch/content/primary[m[33m)[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Wed Jul 24 16:32:47 2024 +0300
+
+    Added intro block
+
+[33mcommit 3c7633018d8f46e1acfcd2b0dbac8721ea26773f[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Wed Jul 24 16:01:42 2024 +0300
+
+    Added link to LinkedIn
+
+[33mcommit bf180547ac1af2f0e51bed993bc2093f55d8323b[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Wed Jul 24 14:11:18 2024 +0300
+
+    Added location to contact info block
+
+[33mcommit 2255cd36f68167959e342561a34d004f3f52ea1f[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Tue Jul 23 21:37:05 2024 +0300
+
+    Added name, position and avatar
+
+[33mcommit 461c981e46f1657d29e5d8b254b42cc8bef4db28[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: d63088d f396e7b
+Author: AnnaRomaniuta <163916713+AnnaRomaniuta@users.noreply.github.com>
+Date:   Tue Jul 23 18:28:06 2024 +0200
+
+    Merge pull request #15 from AnnaRomaniuta/feature/head
+    
+    Add styles and meta tags for responsive design
+
+[33mcommit f396e7bc9b5658603f6c8cad77fe4b7323763178[m[33m ([m[1;31morigin/feature/head[m[33m, [m[1;32mfeature/head[m[33m)[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Tue Jul 23 19:16:29 2024 +0300
+
+    Add styles and meta tags for responsive design
+
+[33mcommit d63088db48984c5e5b57915acdaf3235eb2007a4[m
+Author: Anna <romanyuta.anna@gmail.com>
+Date:   Tue Jul 23 16:25:52 2024 +0300
+
+    Added index.html template
+
+[33mcommit 0b71287b335e631be8c4d8364305ba61e32d3ccd[m[33m ([m[1;32mmain[m[33m)[m
+Author: AnnaRomaniuta <163916713+AnnaRomaniuta@users.noreply.github.com>
+Date:   Mon Jul 22 16:23:39 2024 +0200
+
+    Initial commit
