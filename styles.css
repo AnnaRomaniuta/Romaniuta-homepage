@@ -16,6 +16,10 @@ body {
   --text-decoration-color: #ff9a00;
 }
 
+ul { 
+  list-style-type: "\2727"; 
+}
+
 .container {
   margin: 0 auto;
   padding: 0 30px;
@@ -124,11 +128,12 @@ body {
 
 .contact-info__avatar {
   border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border: 3px solid;
   border-color: var(--text-decoration-color);
+  float: left;
 }
 
 .intro {
@@ -166,6 +171,22 @@ body {
 .skills__text {
   color: var(--secondary-text-color);
   text-align: justify;
+}
+
+.tools__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.tools__text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
+
+.skills__text-items {
+  color: var(--secondary-text-color);
+  padding-left: 20px;
 }
 
 .experiences {
