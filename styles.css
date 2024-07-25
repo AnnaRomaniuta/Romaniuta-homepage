@@ -125,6 +125,7 @@ ul {
 
 .contact-info__item-icon path {
   fill: var(--icon-color);
+  fill: var(--text-decoration-color);
 }
 
 .contact-info__item-icon {
@@ -193,7 +194,7 @@ ul {
 
 .tools__text {
   color: var(--secondary-text-color);
-  text-align: justify;
+  text-align: center;
 }
 
 .skills__text-items {
