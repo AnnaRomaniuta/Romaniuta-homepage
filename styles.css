@@ -63,6 +63,11 @@ ul {
     align-items: center;
   }
 
+  .skills_container {
+    align-items: center;
+    flex-direction: column;
+  }
+
   .contact-info__block:not(:last-child) {
     margin-bottom: 20px;
   }
@@ -94,6 +99,7 @@ ul {
   flex-direction: column;
   justify-content: space-between;
 }
+
 
 .contact-info__block--center {
   justify-content: top;
@@ -168,6 +174,12 @@ ul {
   margin-bottom: 15px;
 }
 
+.skills__block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 .skills__text {
   color: var(--secondary-text-color);
   text-align: justify;
@@ -196,6 +208,8 @@ ul {
 
 .experiences__header {
   color: var(--secondary-text-color);
+  text-decoration-color: var(--text-decoration-color);
+  text-decoration-line: underline;
   text-align: left;
   margin-bottom: 20px;
 }
@@ -248,12 +262,42 @@ ul {
   flex: 1 1 40%;
 }
 
+.additional-info__training-courses {
+  margin-bottom: 20px;
+}
+
+.additional-info__training-courses-header {
+  color: var(--secondary-text-color);
+  text-decoration-color: var(--text-decoration-color);
+  text-decoration-line: underline;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.additional-info__etraining-courses-durability {
+  color: var(--durability-text-color);
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.additional-info__training-courses-speciality {
+  color: var(--primary-text-color);
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.additional-info__training-courses-name {
+  color: var(--secondary-text-color);
+}
 .additional-info__education {
   margin-bottom: 20px;
 }
 
 .additional-info__education-header {
   color: var(--secondary-text-color);
+  text-decoration-color: var(--text-decoration-color);
+  text-decoration-line: underline;
   text-align: left;
   margin-bottom: 20px;
 }
@@ -281,6 +325,8 @@ ul {
 
 .additional-info__languages-header {
   color: var(--secondary-text-color);
+  text-decoration-color: var(--text-decoration-color);
+  text-decoration-line: underline;
   text-align: left;
   margin-bottom: 20px;
 }
